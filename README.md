@@ -14,9 +14,9 @@ Genesis-H라는 이름은 교수님께서 과거 RPG게임 '창세기전'에서 
   <img src="https://img.shields.io/badge/nginx-0769AD?style=for-the-badge&logo=nginx&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/bash-F80000?style=for-the-badge&logo=bash&logoColor=white"> 
-  <img src="https://img.shields.io/badge/script-4479A1?style=for-the-badge&logo=script&logoColor=white"> 
-  <img src="https://img.shields.io/badge/iptables-FFCA28?style=for-the-badge&logo=iptables&logoColor=white">
+  <img src="https://img.shields.io/badge/bashshell-F80000?style=for-the-badge&logo=bashshell&logoColor=white"> 
+  <img src="https://img.shields.io/badge/opensource-4479A1?style=for-the-badge&logo=opensource&logoColor=white"> 
+  <img src="https://img.shields.io/badge/packages-FFCA28?style=for-the-badge&logo=packages&logoColor=white">
   <br>
   
 </div>
