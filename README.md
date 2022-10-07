@@ -10,7 +10,7 @@ Genesis-H라는 이름은 교수님께서 과거 RPG게임 '창세기전'에서 
   
   <img src="https://img.shields.io/badge/linux-E34F26?style=for-the-badge&logo=linux&logoColor=white"> 
   <img src="https://img.shields.io/badge/unix-1572B6?style=for-the-badge&logo=unix3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache2-F7DF1E?style=for-the-badge&logo=apache2&logoColor=black"> 
+  <img src="https://img.shields.io/badge/apache-F7DF1E?style=for-the-badge&logo=apache&logoColor=black"> 
   <img src="https://img.shields.io/badge/nginx-0769AD?style=for-the-badge&logo=nginx&logoColor=white">
   <br>
   
