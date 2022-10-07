@@ -6,6 +6,7 @@ Genesis-H라는 이름은 교수님께서 과거 RPG게임 '창세기전'에서 
 <div align=center> 
   <img src="https://img.shields.io/badge/vmware-007396?style=for-the-badge&logo=vmware&logoColor=white"> 
   <img src="https://img.shields.io/badge/virtualbox-3776AB?style=for-the-badge&logo=virtualbox&logoColor=white"> 
+  <img src="https://img.shields.io/badge/cisco-3776AB?style=for-the-badge&logo=cisco&logoColor=white"> 
   <br>
   
   <img src="https://img.shields.io/badge/linux-E34F26?style=for-the-badge&logo=linux&logoColor=white"> 
