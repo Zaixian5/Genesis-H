@@ -5,14 +5,13 @@ Genesis-H라는 이름은 교수님께서 과거 RPG게임 '창세기전'에서 
 
 <div align=center> 
   <img src="https://img.shields.io/badge/vmware-007396?style=for-the-badge&logo=vmware&logoColor=white"> 
-  <img src="https://img.shields.io/badge/hyper-v-00599C?style=for-the-badge&logo=hyper-v&logoColor=white">
   <img src="https://img.shields.io/badge/virtualbox-3776AB?style=for-the-badge&logo=virtualbox&logoColor=white"> 
   <br>
   
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-E34F26?style=for-the-badge&logo=linux&logoColor=white"> 
+  <img src="https://img.shields.io/badge/unix-1572B6?style=for-the-badge&logo=unix3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/apache2-F7DF1E?style=for-the-badge&logo=apache2&logoColor=black"> 
+  <img src="https://img.shields.io/badge/nginx-0769AD?style=for-the-badge&logo=nginx&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
