@@ -159,6 +159,15 @@ void outro(void)
 {
 	system("cls");
 	printf("Bye!\n");
+	printf("게임을 나가려면 아무키나 누르세요...\n");
+
+	while (true)
+	{
+		if (_kbhit())
+		{
+			break;
+		}
+	}
 }
 int get_key(void)
 {
